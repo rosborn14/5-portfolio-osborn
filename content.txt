@@ -1,0 +1,15 @@
+Who I am
+content
+I'm a student-athlete at Andover High School. I'm currently at the end of my freshman year in High School. I'm a straight A student that is always looking for challenges. I view myself as someone who is smart and determined to succeed. I'm driven by my competitve nature and I'm always striving to be the best. 
+
+Stuff I do
+content
+One of my favorite things to do is play hockey. I have a passion for the sport, and its always fun to skate out on the ice. I've been playing hockey for about 7 years since I was 8. I've played on various teams and our teams are usually bad, but I still loved playing. I love connecting with other people through hockey. This past year I played for the U15 Islanders selects, the U16 Vallery Jr. Warriors, and the Andover High School JVA team. 
+
+One more thing
+I enjoy playing video games when I want to relax and unwind. Outside of hockey, I also do Kung Fu. I'm part of the demonstration team, and I sometimes do lion dancing. I started when I was four years I, and I've haven't stopped since then.
+
+ <!-- The video -->
+                <video autoplay muted loop id="myVideo">
+                    <source src="rain.mp4" type="video/mp4">
+                </video>
