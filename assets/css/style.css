@@ -1,20 +1,25 @@
-/* Text */
-
-
-/* Style the video: 100% width and height to cover the entire window */
-#myVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    width: 100%; 
+/* Spacing */
+h1, h2 {
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
+.text {
+    padding: 20px;
+    margin-bottom: 50px
+}
 
-.fs-img1 {
-    width: 100%;
-    height: auto;
-    background-image: url(/images/hockey-img.jpg);
-    z-index: 1000;
+.img {
+    width: 40%;
+    margin-bottom: 50px;
+}
+
+.video {
+    width: 45%;
+    margin-bottom: 50px;
+}
+
+.img-pop {
+    height: 310px;
 }
 
 .w3-theme-l5 {color:#000 !important; background-color:#f6f9fd !important}
